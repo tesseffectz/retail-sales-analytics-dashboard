@@ -71,7 +71,7 @@ Key data preparation steps included:
 2. **Customer Concentration** – While 68.5% of customers fall into the Low Value segment, they collectively contribute a significant share of revenue, indicating retention and upsell potential.  
 3. **Balanced Product Portfolio** – Technology (36.6%), Furniture (31.2%), and Office Supplies (32.2%) contribute relatively evenly to total revenue.  
 4. **Geographic Concentration** – California alone accounts for approximately 20% of total sales ($446K), with the West region leading overall performance.  
-5. **Shipping Optimization Opportunity** – Only 38% of orders qualify as “Fast” shipping, with most deliveries averaging around five days.
+5. **Shipping Optimization Opportunity** – OOnly 22.13% of orders qualify as Fast shipping, while the majority fall into Standard (38.1%) and Slow (39.8%) categories, with deliveries averaging around five days.
 
 ---
 
